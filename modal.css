@@ -25,6 +25,7 @@
 
 .remove-btn {
   display: flex;
+  margin-left: 540px;
   background-color: red;
 }
 
